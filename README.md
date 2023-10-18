@@ -1,15 +1,25 @@
 # http-flood
 This code is simpel dos method http-flood with send spam threads to target
 ## How to install?
-1.```apt update && apt upgrade -y```
+```bash
+apt update && apt upgrade -y
+```
 
-2.```git clone https://github.com/Shoukaku07/http-flood```
+```bash
+git clone https://github.com/Shoukaku07/http-flood
+```
 
-3.```cd http-flood```
+```bash
+cd http-flood
+```
 
-4.```pip install requests```
+```bash
+pip install requests
+```
 
-5.```python dos.py <url>```
+```bash
+python dos.py <url>
+```
 ## Warning
 
 ⚠️ **Disclaimer: Denial of Service**
