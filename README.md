@@ -2,7 +2,7 @@
 This code is simpel dos method http-flood with send spam threads to target
 ## How to install?
 ```bash
-apt update && apt upgrade -y
+apt update && apt upgrade -y && apt install git
 ```
 
 ```bash
