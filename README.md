@@ -1,7 +1,7 @@
 # http-flood
 This code is simpel dos method http-flood with send spam threads to target
 ## How to install?
-1.```apt update && apt upgrade -y
+1.```apt update && apt upgrade -y```
 
 2.```git clone https://github.com/Shoukaku07/http-flood```
 
