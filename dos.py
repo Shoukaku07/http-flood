@@ -14,7 +14,7 @@ def send_request(url):
         print("Failed send thread to", url, "error message:", str(e))
 
 if len(sys.argv) != 2:
-    print("Usage: python ddos.py <url>")
+    print("Usage: python dos.py <url>")
     sys.exit(1)
 
 target_url = sys.argv[1]
